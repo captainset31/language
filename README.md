@@ -1,5 +1,5 @@
-# language
-programing language
+# Languages
+Programing languages:
 c
 c++
 java 
